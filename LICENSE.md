@@ -11,7 +11,7 @@ Following excerpt is taken from CALL OF DUTY 4: MODERN WARFARE  MAP MAKING TOOLS
 
 > NO WARRANTIES/NO SUPPORT.  THERE ARE NO WARRANTIES, WHETHER ORAL OR WRITTEN, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT, AND NO OTHER REPRESENTATIONS OR CLAIMS OF ANY KIND SHALL BE BINDING ON OR OBLIGATE ACTIVISION.  THE PROGRAM UTILITIES ARE PROVIDED TO YOU “AS IS.”  Activision does not provide technical or customer support for the Program Utilities or the New Game Materials created by using the Program Utilities. All use of such materials is at your own risk.
 
-Complete license can be found in `End User License Agreement (Release of Map Tools to the Public for Call of Duty 4-PC).doc`.
+Complete license can be found in `EULA.doc`.
 
 ---
 
